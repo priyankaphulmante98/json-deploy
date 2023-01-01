@@ -1,0 +1,23 @@
+{
+  "name": "json-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankaphulmante98/json-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankaphulmante98/json-deploy/issues"
+  },
+  "homepage": "https://github.com/priyankaphulmante98/json-deploy#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
